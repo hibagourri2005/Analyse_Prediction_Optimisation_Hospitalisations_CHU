@@ -1,0 +1,17 @@
+nom_service,nb_patients,duree_reelle_moyenne,duree_predite_moyenne
+Cardiologie,889,8.72,8.74
+Chirurgie Générale,948,8.77,8.77
+Dermatologie,937,8.49,8.5
+Gastro-Entérologie,911,9.08,9.09
+Maternité,875,7.55,7.54
+Médecine Interne,953,8.63,8.62
+Neurologie,958,9.07,9.04
+Néphrologie,947,8.59,8.59
+Oncologie,865,14.25,14.24
+Orl,846,5.72,5.7
+Orthopédie,923,8.11,8.11
+Pneumologie,864,11.27,11.28
+Pédiatrie,884,7.8,7.8
+Réanimation,927,16.54,16.58
+Urgences,917,8.16,8.17
+Urologie,936,7.08,7.14

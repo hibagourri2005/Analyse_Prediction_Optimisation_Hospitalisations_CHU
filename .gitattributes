@@ -1,0 +1,8 @@
+# Normalise les fins de ligne (évite les diffs CRLF/LF entre Windows et Linux)
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.pkl binary
+*.xlsx binary
+*.pdf binary
+*.pbix binary

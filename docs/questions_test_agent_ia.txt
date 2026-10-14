@@ -1,0 +1,7 @@
+répartition par sexe dans mon service
+comment évoluent les admissions ces derniers mois ?
+montre-moi les données du service Pédiatrie
+quelle est la capitale du Maroc ?
+quels sont les 5 patients avec la durée de séjour la plus longue ?
+donne-moi des recommandations pour améliorer l'état de l'hôpital
+donne-moi des recommandations pour améliorer l'état de mon service

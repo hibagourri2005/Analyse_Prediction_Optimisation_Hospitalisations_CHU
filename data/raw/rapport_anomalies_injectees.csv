@@ -1,0 +1,7 @@
+type_anomalie,nb_lignes_affectees
+valeurs_manquantes_hospitalisations,600
+valeurs_manquantes_patients,320
+doublons_hospitalisations,300
+doublons_patients,160
+dates_incoherentes,229
+ages_invalides,81

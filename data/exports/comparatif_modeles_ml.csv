@@ -1,0 +1,9 @@
+modele,MAE,RMSE,R2,RMSE_cv_moyen,RMSE_cv_std
+Ridge,1.191,1.622,0.838,1.622,0.044
+Régression Linéaire,1.192,1.624,0.837,1.625,0.045
+XGBoost,1.2,1.637,0.835,1.653,0.052
+Gradient Boosting,1.235,1.676,0.827,1.673,0.047
+KNN Regressor,1.443,1.907,0.776,1.984,0.033
+Random Forest,1.695,2.205,0.7,2.137,0.054
+Decision Tree,1.947,2.516,0.61,2.448,0.052
+Lasso,2.365,2.932,0.47,2.93,0.022

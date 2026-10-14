@@ -1,0 +1,17 @@
+nom_service,nb_hospitalisations,duree_moyenne_sejour,duree_mediane_sejour,age_moyen_patients,taux_urgence_pct,taux_deces_pct,capacite_lits,taux_occupation_pct
+Neurologie,958,9.07,9.0,47.0,32.36,4.07,18,44.07
+Médecine Interne,953,8.63,8.0,46.94,33.47,4.09,30,25.04
+Chirurgie Générale,948,8.77,9.0,46.79,34.6,3.8,35,21.7
+Néphrologie,947,8.59,8.0,47.38,35.27,4.12,15,49.53
+Dermatologie,937,8.49,8.0,46.37,34.58,3.74,12,60.54
+Urologie,936,7.08,6.0,47.08,32.48,3.74,20,30.27
+Réanimation,927,16.54,16.0,46.85,32.25,4.1,15,93.37
+Orthopédie,923,8.11,8.0,47.69,32.5,3.14,25,27.34
+Urgences,917,8.16,8.0,48.94,32.5,4.03,20,34.17
+Gastro-Entérologie,911,9.08,9.0,46.01,33.04,4.5,18,41.97
+Cardiologie,889,8.72,9.0,48.02,34.31,4.05,30,23.61
+Pédiatrie,884,7.8,8.0,46.49,33.37,4.98,25,25.18
+Maternité,875,7.55,7.0,47.19,35.66,3.66,40,15.08
+Oncologie,865,14.25,14.0,46.03,29.02,4.62,20,56.3
+Pneumologie,864,11.27,10.0,47.02,35.42,4.28,20,44.47
+Orl,846,5.72,5.0,49.01,31.32,3.19,15,29.46

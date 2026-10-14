@@ -1,0 +1,5 @@
+table,nb_lignes_avant,nb_lignes_apres,lignes_supprimees,pct_supprime
+patients,8160,8000,160,1.96
+hospitalisations,15300,14580,720,4.71
+medecins,103,103,0,0.0
+services,16,16,0,0.0

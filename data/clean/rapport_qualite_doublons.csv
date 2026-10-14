@@ -1,0 +1,4 @@
+table,nb_doublons_avant,taux_doublons_pct_avant,nb_doublons_apres,taux_doublons_pct_apres
+patients,160,1.96,0,0.0
+hospitalisations,300,1.96,0,0.0
+medecins,0,0.0,0,0.0
